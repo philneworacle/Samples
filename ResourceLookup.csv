@@ -1,0 +1,69 @@
+﻿Resource,Service,Unit,ReportUnits,Conversion,FriendlyName
+PIC_DYN_DNS_QUERIES,DNS,"1,000,000 Queries",Count,0.000001,DNS Queries
+PIC_OBJECT_STORAGE_REQUEST,Storage,"10,000 Requests per Month",Count,0.0001,Requests
+PIC_DYN_EMAIL_DELIVERY,Email Delivery,1000 Emails Sent,Count,0.001,Emails Sent
+OUTBOUND_DATA_TRANSFER,Ravello,Gigabyte Outbound Data Trans Per Month,Bytes,9.31E-10,Outbound Data Transfer
+NETWORKING_MB,Ravello,Gigabyte Outbound Data Transfer Per Month,Bytes,9.31E-10,Outbound Data Transfer
+PIC_COMPUTE_OUTBOUND_DATA_TRANSFER,Network,Gigabyte Outbound Data Transfer Per Month,Bytes,9.31E-10,Outbound Data Transfer
+DISKSPACE_MB,Ravello,Gigabyte Storage Capacity Per Month,GB_MS,3.73E-10,Volume Storage
+LIBRARY_STORAGE,Ravello,Gigabyte Storage Capacity Per Month,GB_MS,3.73E-10,Library Storage
+PIC_ARCHIVE_STORAGE,Storage,Gigabyte Storage Capacity Per Month,GB_MS,3.73E-10,Archive Storage
+PIC_BLOCK_STORAGE_STANDARD,Storage,Gigabyte Storage Capacity Per Month,GB_MS,3.73E-10,Block Volume Storage
+PIC_FILE_STORAGE,Storage,Gigabyte Storage Capacity Per Month,GB_MS,3.73E-10,File Storage
+PIC_OBJECT_STORAGE,Storage,Gigabyte Storage Capacity Per Month,GB_MS,3.73E-10,Object Storage
+VM_STORAGE_MB,Ravello,Gigabyte Storage Capacity Per Month,GB_MS,3.73E-10,Library Storage
+VOLUME_STORAGE,Ravello,Gigabyte Storage Capacity Per Month,GB_MS,3.73E-10,Volume Storage
+PIC_COMPUTE_GPU_STANDARD_V2,Compute Bare Metal,GPU Per Hour,OCPU_MS,2.78E-07,GPU Standard V2
+PIC_COMPUTE_X7_GPU_STANDARD,Compute Bare Metal,GPU Per Hour,OCPU_MS,2.78E-07,GPU Bare Metal X7
+PIC_COMPUTE_X7_VM_GPU_STANDARD,Compute,GPU Per Hour,OCPU_MS,2.78E-07,VM GPU X7
+PIC_DATABASE_ALL_DENSE_IO_BYOL_X7,Database - OCI,Hosted Environment Per Hour,Instance_MS,2.78E-07,DenseIO DB X7 BYOL
+PIC_DATABASE_ENTERPRISE_DENSE_IO,Database - OCI,Hosted Environment Per Hour,Instance_MS,2.78E-07,DenseIO DB Enterprise
+PIC_DATABASE_ENTERPRISE_DENSE_IO_X7,Database - OCI,Hosted Environment Per Hour,Instance_MS,2.78E-07,DenseIO DB X7 Enterprise
+PIC_DATABASE_ENTERPRISE_EXTREME_PERFORMANCE_DENSE_IO,Database - OCI,Hosted Environment Per Hour,Instance_MS,2.78E-07,DenseIO DB Extreme Perf
+PIC_DATABASE_ENTERPRISE_EXTREME_PERFORMANCE_DENSE_IO_X7,Database - OCI,Hosted Environment Per Hour,Instance_MS,2.78E-07,DenseIO DB X7 Extreme Perf
+PIC_DATABASE_ENTERPRISE_HIGH_PERFORMANCE_DENSE_IO,Database - OCI,Hosted Environment Per Hour,Instance_MS,2.78E-07,DenseIO DB High Perf
+PIC_DATABASE_ENTERPRISE_HIGH_PERFORMANCE_DENSE_IO_X7,Database - OCI,Hosted Environment Per Hour,Instance_MS,2.78E-07,DenseIO DB X7 High Perf
+PIC_DATABASE_STANDARD_DENSE_IO,Database - OCI,Hosted Environment Per Hour,Instance_MS,2.78E-07,DenseIO DB Standard
+PIC_DATABASE_STANDARD_DENSE_IO_X7,Database - OCI,Hosted Environment Per Hour,Instance_MS,2.78E-07,DenseIO DB X7 Standard
+PIC_LB_LARGE,Load Balancer,Load Balancer Hour,Instance_MS,2.78E-07,8000 Mbps Load Balancer
+PIC_LB_MEDIUM,Load Balancer,Load Balancer Hour,Instance_MS,2.78E-07,400 Mbps Load Balancer
+PIC_LB_SMALL,Load Balancer,Load Balancer Hour,Instance_MS,2.78E-07,100 Mbps Load Balancer
+CPU.ENTERPRISE,Ravello,OCPU Per Hour,OCPU_MS,2.78E-07,Enterprise Compute
+CPU.METAL,Ravello,OCPU Per Hour,OCPU_MS,2.78E-07,Bare Metal Compute
+CPU.STANDARD,Ravello,OCPU Per Hour,OCPU_MS,2.78E-07,Standard Compute
+PIC_COMPUTE_VM_DENSEIO,Compute,OCPU Per Hour,OCPU_MS,2.78E-07,VM DenseIO X5
+PIC_COMPUTE_VM_STANDARD,Compute,OCPU Per Hour,OCPU_MS,2.78E-07,VM Standard X5
+PIC_COMPUTE_WINDOWS_OS,Compute,OCPU Per Hour,OCPU_MS,2.78E-07,Windows OS
+PIC_COMPUTE_X5_NVME_28_8,Compute Bare Metal,OCPU Per Hour,OCPU_MS,2.78E-07,Bare Metal DenseIO X5
+PIC_COMPUTE_X5_STANDARD,Compute Bare Metal,OCPU Per Hour,OCPU_MS,2.78E-07,Bare Metal Standard X5
+PIC_COMPUTE_X7_NVME_28_8,Compute Bare Metal,OCPU Per Hour,OCPU_MS,2.78E-07,Bare Metal DenseIO X7
+PIC_COMPUTE_X7_STANDARD,Compute Bare Metal,OCPU Per Hour,OCPU_MS,2.78E-07,Bare Metal Standard X7
+PIC_COMPUTE_X7_VM_DENSEIO,Compute,OCPU Per Hour,OCPU_MS,2.78E-07,VM DenseIO X7
+PIC_COMPUTE_X7_VM_STANDARD,Compute,OCPU Per Hour,OCPU_MS,2.78E-07,VM Standard X7
+PIC_DATABASE_ENTERPRISE_ADDITIONAL_CAPACITY,Database - OCI,OCPU Per Hour,OCPU_MS,2.78E-07,Additional Capacity Enterprise
+PIC_DATABASE_ENTERPRISE_EXTREME_PERFORMANCE_ADDITIONAL_CAPACITY,Database - OCI,OCPU Per Hour,OCPU_MS,2.78E-07,Additional Capacity Extreme
+PIC_DATABASE_ENTERPRISE_HIGH_PERFORMANCE_ADDITIONAL_CAPACITY,Database - OCI,OCPU Per Hour,OCPU_MS,2.78E-07,Additional Capacity High
+PIC_DATABASE_STANDARD_ADDITIONAL_CAPACITY,Database - OCI,OCPU Per Hour,OCPU_MS,2.78E-07,Additional Capacity Standard
+PIC_COMPUTE_FASTCONNECT_LARGE,Network,Port Hour,Port_MS,2.78E-07,FastConnect 10 Gbps
+PIC_COMPUTE_FASTCONNECT_SMALL,Network,Port Hour,Port_MS,2.78E-07,FastConnect 1 Gbps
+MINIMUM.ADVANCED.COST_OPTIMIZED,Ravello,Ravello Compute Hour,Instance_MS,2.78E-07,Compute M Cost Optimized Advanced
+MINIMUM.ADVANCED.PERFORMANCE_OPTIMIZED,Ravello,Ravello Compute Hour,Instance_MS,2.78E-07,Compute M Performance Advanced
+MINIMUM.ENTERPRISE.COST_OPTIMIZED,Ravello,Ravello Compute Hour,Instance_MS,2.78E-07,Compute M Cost Optimized Enterprise
+MINIMUM.ENTERPRISE.PERFORMANCE_OPTIMIZED,Ravello,Ravello Compute Hour,Instance_MS,2.78E-07,Compute M Performance Enterprise
+R1.ADVANCED.COST_OPTIMIZED,Ravello,Ravello Compute Hour,Instance_MS,2.78E-07,Compute R1 Cost Optimized Advanced
+R1.ADVANCED.PERFORMANCE_OPTIMIZED,Ravello,Ravello Compute Hour,Instance_MS,2.78E-07,Compute R1 Performance Advanced
+R1.ENTERPRISE.COST_OPTIMIZED,Ravello,Ravello Compute Hour,Instance_MS,2.78E-07,Compute R1 Cost Optimized Enterprise
+R1.ENTERPRISE.PERFORMANCE_OPTIMIZED,Ravello,Ravello Compute Hour,Instance_MS,2.78E-07,Compute R1 Performance Enterprise
+R2.ADVANCED.COST_OPTIMIZED,Ravello,Ravello Compute Hour,Instance_MS,2.78E-07,Compute R2 Cost Optimized Advanced
+R2.ADVANCED.PERFORMANCE_OPTIMIZED,Ravello,Ravello Compute Hour,Instance_MS,2.78E-07,Compute R2 Cost Optimized Advanced
+R2.ENTERPRISE.COST_OPTIMIZED,Ravello,Ravello Compute Hour,Instance_MS,2.78E-07,Compute R2 Cost Optimized Advanced
+R2.ENTERPRISE.PERFORMANCE_OPTIMIZED,Ravello,Ravello Compute Hour,Instance_MS,2.78E-07,Compute R2 Cost Optimized Advanced
+IP_ADDRESS,Ravello,Virtual Machine IP Per Hour,IP_MS,2.78E-07,VM IP
+VM_IP,Ravello,Virtual Machine IP Per Hour Perpetual,IP_MS,2.78E-07,VM IP
+ADWC_PAAS_BYOL_OCPU_HOUR,Autonomous Data Warehouse - BYOL,OCPU Per Hour,OCPU_MS,2.78E-07,ADW OCPU BYOL
+ADWC_PAAS_EP_OCPU_HOUR,Autonomous Data Warehouse,OCPU Per Hour,OCPU_MS,2.78E-07,ADW OCPU
+ATP_PAAS_BYOL_OCPU_HOUR,Autonomous Transaction Processing - BYOL,OCPU Per Hour,OCPU_MS,2.78E-07,ATP OCPU BYOL
+ATP_PAAS_OCPU_HOUR,Autonomous Transaction Processing,OCPU Per Hour,OCPU_MS,2.78E-07,ATP OCPU
+ADWC_PAAS_XD_TB_MONTH,Autonomous Data Warehouse,Terabyte Storage Capacity per Month,GB_MS,3.82E-07,ADW Additional Stroage
+ATP_PAAS_XD_TB_MONTH,Autonomous Transaction Processing,Terabyte Storage Capacity Per Month,GB_MS,3.82E-07,ATP Additional Storage
+PIC_METRIC_CONSUMPTION,Monitoring,1M Datapoints,Count,0.000001,Monitoring Metrics Consumption
