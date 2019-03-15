@@ -1,0 +1,6 @@
+[DEFAULT]
+user=<your user ocid>
+fingerprint=<your key fingerprint>
+key_file=<your user key file>
+tenancy=<your tenancy ocid>
+region=<your home region>
